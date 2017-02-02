@@ -1,7 +1,7 @@
 /*
     Magma code related to the paper:
     [1] "Cartan images and l-torsion points of elliptic curves with rational
-        j-invariant," https://arxiv.org/abs/1702.00121.
+        j-invariant," [https://arxiv.org/abs/1702.00121].
     Copyright (c) 2017 by Oron Y. Propp.
     You are welcome to use and/or modify this code under the terms of version 3
     of the GNU General Public License or any later version (but please cite the
@@ -13,11 +13,11 @@
 
     This code depends on the following modules by Andrew V. Sutherland, which
     can be downloaded from:
-        http://math.mit.edu/~drew/galrep/
+        [http://math.mit.edu/~drew/galrep/].
     They are related to his paper:
     [2] "Computing images of Galois representations attached to elliptic
         curves," Forum of Mathematics, Sigma 4 (2016) e4 (79 pages),
-        http://dx.doi.org/10.1017/fms.2015.33.
+        [http://dx.doi.org/10.1017/fms.2015.33].
 */
 
 load "subgroups.m";
